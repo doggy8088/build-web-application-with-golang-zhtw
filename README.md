@@ -1,3 +1,2 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# Go Web 程式設計
+Go web 程式設計是因為我喜歡 Web 程式設計，所以寫了這本書，希望大家喜歡
