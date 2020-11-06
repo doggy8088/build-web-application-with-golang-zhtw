@@ -32,7 +32,7 @@
 	* [使用 SQLite 資料庫](05.3.md)
 	* [使用 PostgreSQL 資料庫](05.4.md)
 	* [使用 beedb 函式庫進行 ORM 開發](05.5.md)
-	* [NOSQL 資料庫操作](05.6.md)
+	* [NoSQL 資料庫操作](05.6.md)
 	* [小結](05.7.md)
 * [session 和資料儲存](06.0.md)
 	* [session 和 cookie](06.1.md)
